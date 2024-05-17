@@ -1,0 +1,7 @@
+User-agent: *
+
+User-agent: Yandex
+
+host: https://microsoft-word-office.github.io
+
+Sitemap: https://microsoft-word-office.github.io/sitemap.xml
